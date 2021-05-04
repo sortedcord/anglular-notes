@@ -13,7 +13,7 @@ Front-end talks to the back-end to get/save data. Data isn't stored on the clien
 **API**: Endpoints that are accessible via the HTTP protocol.
 They can be called by simple HTTP requests to get/save data.
 
-Next step is to [set up the IDE](../blob/master/Setting up IDE.md) to create angular projects.
+Next step is to [set up the IDE](/blob/master/Setting up IDE.md) to create angular projects.
 
 
 
