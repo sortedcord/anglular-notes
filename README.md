@@ -2,6 +2,12 @@
 
 Angular is a framework for building apps in HTML, CSS and JS/TS
 
+## Why use Angular over vanilla js
+Many applications are built with vanilla js however as the applications get more complex, jquery gets hard to maintain.
+
+With Va
+
+
 ## Architecture of Angular Apps
 
 Modern applications have two parts:
@@ -14,6 +20,8 @@ Front-end talks to the back-end to get/save data. Data isn't stored on the clien
 They can be called by simple HTTP requests to get/save data.
 
 Next step is to [set up the IDE](/Setting%20up%20IDE.md) to create angular projects.
+
+
 
 
 

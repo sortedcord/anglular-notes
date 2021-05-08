@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,6 +89,8 @@
   "active": "2e5f819466b57458",
   "lastOpenFiles": [
     "README.md",
-    "Untitled.md"
+    "Installing VSCode Server.md",
+    "Untitled.md",
+    "Setting up IDE.md"
   ]
 }
