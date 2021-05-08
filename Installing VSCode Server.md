@@ -1,0 +1,1 @@
+_This might not apply to many people but I have installed angular on my server so the only way I could think of working on the project was by using code server_
