@@ -1,4 +1,4 @@
-# Angular.js Notes
+# Angular Notes
 
 Angular is a framework for building apps in HTML, CSS and JS/TS
 
