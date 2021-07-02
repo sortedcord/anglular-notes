@@ -1,6 +1,6 @@
 # Angular Notes
 
-Angular is a framework for building apps in HTML, CSS and JS/TS
+Angular is a framework for building apps in HTML, CSS and JS/TS.
 
 ## Why use Angular over vanilla js
 Many applications are built with vanilla js however as the applications get more complex, jquery gets hard to maintain.
