@@ -1,4 +1,4 @@
-<img align="right" height="100px" style="padding-left: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+<img align="right" height="120px" style="padding-left: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
 
 ![Last Commit](https://img.shields.io/github/last-commit/sortedcord/angular-notes?style=for-the-badge)
 ![License](https://img.shields.io/github/license/sortedcord/angular-notes?style=for-the-badge)
