@@ -1,6 +1,13 @@
+<img align="right" height="100px" style="padding-left: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+
+![Last Commit](https://img.shields.io/github/last-commit/sortedcord/angular-notes?style=for-the-badge)
+![License](https://img.shields.io/github/license/sortedcord/angular-notes?style=for-the-badge)
+
+
 # Angular Notes
 
-Angular is a framework for building apps in HTML, CSS and JS/TS.
+#### The Complete Angular Course: Beginner to Advanced <br> Created by [Maximilian Schwarzmüller](https://www.udemy.com/user/mosh-hamedani/)
+
 
 ## Why use Angular over vanilla js
 Many applications are built with vanilla js however as the applications get more complex, jquery gets hard to maintain.
